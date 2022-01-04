@@ -23,7 +23,7 @@ function background(url, left, bottom, width, height) {
         }
     }
 }
-let horizon = window.innerHeight / 1.75
+let horizon = window.innerHeight / 2
 let sky = window.innerHeight - horizon
 let grass = horizon
 
